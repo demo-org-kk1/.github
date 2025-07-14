@@ -1,0 +1,3 @@
+# Enable Allstar for all repositories in the org
+optConfig:
+  optOutStrategy: true
